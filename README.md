@@ -1,5 +1,7 @@
-# Pacman-and-Ghost
-Computational intelligence and machine learning Assignment
+# Computational intelligence and machine learning Assignment
+2024 sem1 COMP7404
+
+To remember the time I stayed up late writing code :).
 
 **Introduction**
 
