@@ -49,6 +49,9 @@ You can expect the following characters in the file.
 
 **Problem 6: Expectimax Pacman play against up to 4 random Ghosts**
 
+<img width="953" alt="a2_evaluation standard_v3" src="https://github.com/user-attachments/assets/e46324a5-e5af-4210-89a0-de000333f097" />
+
+
 ## Assignment 3
 
 **Problem 1: An MDP Episode**
